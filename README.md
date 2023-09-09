@@ -1,24 +1,39 @@
-# Sorting_Visualizer
+# Sorting Visualizer 📊
 
 A web application showcasing the inner workings of sorting algorithms.
 
-Implemented algorithms:
-1) Bubble sort
-2) Selection sort
-3) Insertion sort
-4) Merge sort
-5) Heap sort
+## Implemented Algorithms
+- Bubble sort
+- Selection sort
+- Insertion sort
+- Merge sort
+- Heap sort
 
-Features:
-1) Colored representation of step being executed.
-   1.1) Blue:default
-   1.2) Yellow: Being compared
-   1.3) Red: Identified as in incorrect position and to be moved
-   1.4) Green: In correct position
-2) 3 Controls for visualizations
-   2.1) Speed of visualization (5 speed levels)
-   2.2) Data size ()
-   2.3) Generation of new data (Randomly generate new data).
-4) Time and Space complexity of algorithm being visualized.
+## Features 🚀
+- Colored representation of steps being executed:
+   - 🔵 Blue: Default
+   - 💛 Yellow: Being compared
+   - 🔴 Red: Identified as incorrectly positioned and to be moved
+   - 🟢 Green: In the correct position
+- Interactive controls for visualizations:
+   - 🎮 Speed of visualization (5 speed levels)
+   - 📊 Data size adjustment
+   - 🔄 Generation of new data (Randomly generates new data)
+- Real-time display of time and space complexity for the algorithm being visualized.
 
+## About the Author 🧑‍💻
+- **Chetan Batra**
+- LinkedIn: [Chetan Batra](https://www.linkedin.com/in/chetan-batra-17b8731b7/)
 
+## Tech Stack Used 💻
+- HTML
+- CSS
+- JavaScript
+
+## Screenshots 📸
+- ![Sorting Visualizer Screenshot](/ScreenShot.PNG)
+
+## Live Website 🌐
+- Check out the live website [here](https://sortalgorithmsvisualizer.netlify.app/).
+## Contributions 🤝
+- Contributions are welcome! Feel free to open issues and pull requests.
